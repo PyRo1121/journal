@@ -1,3 +1,7 @@
 site_name: Journal
+site_url: https://pyro1121.github.io/journal/
 theme:
     name: dracula
+nav:
+  - Home: 'index.md'
+  - 10-16-2023.md
