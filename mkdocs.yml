@@ -1,1 +1,3 @@
 site_name: Journal
+theme:
+    name: dracula
